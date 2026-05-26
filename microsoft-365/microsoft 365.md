@@ -1,7 +1,7 @@
 # Microsoft 365 Business Setup with Exchange Online Email
 
 ## Why Microsoft 365? ##
-The employees of the business were comfortable with using Microsoft SaaS such as Word, Excel, Outlook etc.
+The employees of Sakura USA Inc. were comfortable with using Microsoft SaaS such as Word, Excel, Outlook etc.
 Business was interested in OneDrive Syncing and multi-device collaboration.
 
 ## Primary Challenge while setting up the environment ##
