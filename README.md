@@ -2,7 +2,7 @@
 
 CompTIA A+ Certified IT professional with 3+ years of technical 
 support experience in healthcare IT environments. This repository 
-documents hands-on lab work across enterprise IT tools and platforms.
+documents hands-on lab work along with some real experience across enterprise IT tools and platforms.
 
 ## Projects
 
