@@ -10,7 +10,7 @@ documents hands-on lab work along with some real experience across enterprise IT
 |-----|-------------------|--------|
 | Active Directory | User management, OUs, GPOs, security groups | In Progress |
 | Microsoft 365 | Real-world deployment, DNS, Exchange Online, OneDrive | Complete |
-| Helpdesk Simulation | ITSM, incident management, ticketing, ITIL workflows | In Progress |
+| Helpdesk Simulation | ITSM, incident management, ticketing | In Progress |
 | Atlassian Products | Project management, IT workflows | Complete |
 
 ## Certifications
