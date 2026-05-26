@@ -10,8 +10,7 @@ documents hands-on lab work across enterprise IT tools and platforms.
 |-----|-------------------|--------|
 | Active Directory | User management, OUs, GPOs, security groups | In Progress |
 | Microsoft 365 | Real-world deployment, DNS, Exchange Online, OneDrive | Complete |
-| ServiceNow | ITSM, incident management, ticketing, ITIL workflows | In Progress |
-| Networking | DHCP, VPN, DNS, pfSense firewall | In Progress |
+| Helpdesk Simulation | ITSM, incident management, ticketing, ITIL workflows | In Progress |
 | Atlassian Products | Project management, sprint planning, IT workflows | In Progress |
 
 ## Certifications
