@@ -21,7 +21,7 @@ workflow stages:
 ## My Responsibilities
 - Triaged and assigned incoming tickets across 7-8 active clients
 - Documented technical findings and resolution steps in each card
-- Managed 400+ completed tickets over the course of employment
+- Managed 400+ completed tickets over the course of contract with the specific client.
 - Escalated complex issues to senior developers with full context
 - Maintained documentation standards across all boards
 
