@@ -1,4 +1,4 @@
-# Adi Ibne Khan Nuhab - IT Home Lab Portfolio
+# Adi Ibne Khan Nuhab - IT Portfolio
 
 CompTIA A+ Certified IT professional with 3+ years of technical 
 support experience in healthcare IT environments. This repository 
