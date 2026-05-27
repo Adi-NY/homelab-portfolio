@@ -10,8 +10,8 @@ documents hands-on lab work along with some real experience across enterprise IT
 |-----|-------------------|--------|
 | Active Directory & Entra ID | User management, OUs, GPOs, security groups | Complete |
 | Microsoft 365 | Real-world deployment, DNS, Exchange Online, OneDrive | Complete |
-| Helpdesk Simulation | Troubleshooting Etiquette, Documentation, Ticket Escalation | In Progress |
-| Atlassian Products | Project management, IT workflows | Complete |
+| Helpdesk Simulation | Troubleshooting Etiquette, Documentation, Ticket Escalation | Complete |
+| Atlassian Products | Project management, IT workflows | In Progress |
 
 ## Certifications
 - CompTIA A+ (2026)
