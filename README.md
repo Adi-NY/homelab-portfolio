@@ -8,7 +8,7 @@ documents hands-on lab work along with some real experience across enterprise IT
 
 | Lab | Skills Demonstrated | Status |
 |-----|-------------------|--------|
-| Active Directory | User management, OUs, GPOs, security groups | In Progress |
+| Active Directory & Entra ID | User management, OUs, GPOs, security groups | Complete |
 | Microsoft 365 | Real-world deployment, DNS, Exchange Online, OneDrive | Complete |
 | Helpdesk Simulation | ITSM, incident management, ticketing | In Progress |
 | Atlassian Products | Project management, IT workflows | Complete |
