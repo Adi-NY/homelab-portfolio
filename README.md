@@ -19,7 +19,7 @@ documents hands-on lab work along with some real experience across enterprise IT
 
 ## Technical Skills
 Windows Server 2019/2025 · Active Directory · Microsoft 365 · Microsoft Entra
-ServiceNow · Trello · Jira · HeidiSQL · VPN · DHCP · RDP · Google Workspace · 
+ServiceNow · Trello · Jira · HeidiSQL · VPN · DHCP · RDP · Google Workspace
 
 ## Contact
 - Email: adiibnekhann@gmail.com
