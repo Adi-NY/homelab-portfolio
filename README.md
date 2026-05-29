@@ -11,15 +11,15 @@ documents hands-on lab work along with some real experience across enterprise IT
 | Active Directory & Entra ID | User management, OUs, GPOs, security groups | Complete |
 | Microsoft 365 | Real-world deployment, DNS, Exchange Online, OneDrive | Complete |
 | Helpdesk Simulation | Troubleshooting Etiquette, Documentation, Ticket Escalation | Complete |
-| Atlassian Products | Project management, IT workflows | In Progress |
+| Ticketing Systems | Project management, IT workflows | In Progress |
 
 ## Certifications
 - CompTIA A+ (2026)
 - CCNA (In Progress)
 
 ## Technical Skills
-Windows Server 2019/2025 · Active Directory · Microsoft 365 · 
-ServiceNow · Trello · Jira · HeidiSQL · VPN · DHCP · RDP · Google Workspace
+Windows Server 2019/2025 · Active Directory · Microsoft 365 · Microsoft Entra
+ServiceNow · Trello · Jira · HeidiSQL · VPN · DHCP · RDP · Google Workspace · 
 
 ## Contact
 - Email: adiibnekhann@gmail.com
